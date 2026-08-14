@@ -1,0 +1,703 @@
+notes = """ERLING BRAUT HAALAND — TEST KNOWLEDGE BASE
+===============================================
+
+This document is intentionally written as source material for testing a RAG application.
+It contains facts, statistics, milestones, clubs, international football, and comparisons
+that can be queried after the document is chunked and embedded.
+
+BASIC PROFILE
+-------------
+
+Full name: Erling Braut Haaland
+Date of birth: 21 July 2000
+Birthplace: Leeds, England
+Nationality: Norwegian
+Position: Centre-forward / striker
+Shirt number: 9
+Current club: Manchester City
+International team: Norway
+
+Haaland was born in Leeds while his father, Alfie Haaland, was playing in the
+Premier League. His family moved to Bryne in southern Norway when Erling was
+three years old. He joined Bryne's youth setup before the age of 10 and made
+his senior debut in Norway's second tier shortly before his 16th birthday.
+
+EARLY CLUB CAREER
+-----------------
+
+Bryne FK:
+Haaland developed through Bryne's youth system and made his senior debut as a
+teenager.
+
+Molde FK:
+Haaland moved to Molde and quickly became an important young striker. In the
+2018 season he scored 12 league goals in 25 appearances.
+
+Red Bull Salzburg:
+Salzburg signed Haaland in January 2019. His scoring exploded during the
+following season. Between August and September 2019 he scored 17 goals in
+nine games, including three hat-tricks.
+
+His UEFA Champions League debut for Salzburg came against Genk. Haaland scored
+a first-half hat-trick on his debut, becoming the first and, according to UEFA,
+the only player to score a first-half hat-trick on a Champions League debut.
+
+BORUSSIA DORTMUND
+-----------------
+
+Haaland joined Borussia Dortmund after the 2019/20 Champions League group stage.
+
+He scored twice on his Dortmund Champions League debut and reached 10
+Champions League goals after only seven appearances in the competition at that
+time.
+
+During his Dortmund career he scored 86 goals in 89 games across two and a half
+seasons, according to Manchester City's player profile. He won the German Cup
+with Dortmund and was named Bundesliga Player of the Season for 2020/21.
+
+In November 2021, Haaland scored his 50th Bundesliga goal. He became the
+youngest and fastest player to reach that milestone.
+
+MOVE TO MANCHESTER CITY
+----------------------
+
+Manchester City signed Haaland from Borussia Dortmund in 2022, with the deal
+becoming active on 1 July 2022.
+
+He made his Manchester City debut against West Ham United.
+
+In his first season at Manchester City, Haaland scored 52 goals in all
+competitions. This included 36 Premier League goals and 12 Champions League
+goals.
+
+His 36 Premier League goals in 2022/23 set the record for the most goals by a
+player in a single Premier League season.
+
+Manchester City won the Premier League, FA Cup and UEFA Champions League in
+2022/23, completing a historic treble. Haaland was a major contributor to that
+season.
+
+In the Champions League quarter-final first leg against Bayern Munich,
+Haaland scored his 45th goal of the season. This took him beyond the previous
+record for most goals by a player for an English top-flight club in a single
+season across all competitions.
+
+In March 2023, Haaland scored five goals against RB Leipzig in a Champions
+League match that Manchester City won 7-0.
+
+MANCHESTER CITY — 2023/24
+-------------------------
+
+Haaland scored 38 goals in all competitions during the 2023/24 season.
+
+He scored 27 Premier League goals and won his second consecutive Premier
+League Golden Boot.
+
+Manchester City won the UEFA Super Cup at the beginning of the season.
+Haaland scored his penalty in the shootout victory over Sevilla.
+
+MANCHESTER CITY — 2024/25
+-------------------------
+
+The 2024/25 campaign was more difficult for Manchester City, but Haaland still
+scored 34 goals in 48 appearances across all competitions.
+
+In January 2025, Manchester City announced that Haaland had signed a new
+contract keeping him at the club until the summer of 2034.
+
+MANCHESTER CITY — 2025/26
+-------------------------
+
+During the 2025/26 season, Haaland scored 38 goals in 52 appearances across
+all competitions for Manchester City.
+
+His 2025/26 breakdown included:
+- 52 appearances
+- 38 goals
+- 9 assists
+- 4,143 minutes
+- 27 Premier League goals
+
+He won the Premier League Golden Boot again in 2025/26. This was his third
+Golden Boot across his first four seasons at Manchester City.
+
+Manchester City also won the Carabao Cup and FA Cup during the 2025/26 season.
+
+CAREER TOTALS AT MANCHESTER CITY
+--------------------------------
+
+According to Manchester City's 2026 career review, Haaland had reached:
+- 198 Manchester City appearances
+- 162 Manchester City goals
+- 16,053 minutes
+- 112 Premier League goals in 132 Premier League appearances
+
+The same review listed nine trophies won with Manchester City, including:
+- UEFA Champions League
+- Premier League titles
+- FA Cups
+- Carabao Cup
+- FA Community Shield
+- FIFA Club World Cup
+- UEFA Super Cup
+
+INTERNATIONAL CAREER
+--------------------
+
+Haaland represents Norway.
+
+He made his senior Norway debut in September 2019 in a 2-0 victory over Malta.
+He scored his first senior international goal when he won his third cap against
+Austria in September 2020.
+
+In October 2020, Haaland scored his first international hat-trick in a 4-0
+victory over Romania.
+
+He won the Golden Boot in the 2020/21 UEFA Nations League.
+
+A Manchester City career review published in 2026 listed Haaland with:
+- 50 Norway appearances
+- 55 Norway goals
+
+UEFA's 2026 European Qualifiers statistics listed Haaland with 8 appearances,
+706 minutes and 16 goals in the 2026 European Qualifiers.
+
+CHAMPIONS LEAGUE RECORDS
+------------------------
+
+Haaland has been exceptionally productive in the UEFA Champions League.
+
+As of June 2026, UEFA listed:
+- 58 Champions League appearances
+- 57 Champions League goals
+
+His Champions League goals by club were:
+- Red Bull Salzburg: 6 games, 8 goals
+- Borussia Dortmund: 13 games, 15 goals
+- Manchester City: 39 games, 34 goals
+
+Haaland became the quickest player to reach 50 Champions League goals,
+achieving the milestone in 49 appearances.
+
+UEFA lists several age and appearance records for Haaland:
+- Youngest to 15 Champions League goals: 20 years, 126 days
+- Quickest to 15 goals: 12 games
+- Youngest to 20 goals: 20 years, 231 days
+- Quickest to 20 goals: 14 games
+- Youngest to 25 goals: 22 years, 47 days
+- Quickest to 25 goals: 20 games
+- Youngest to 30 goals: 22 years, 236 days
+- Quickest to 30 goals: 25 games
+- Youngest to 35 goals: 22 years, 272 days
+- Quickest to 35 goals: 27 games
+- Youngest to 40 goals: 23 years, 130 days
+- Quickest to 40 goals: 35 games
+- Youngest to 45 goals: 24 years, 128 days
+- Quickest to 45 goals: 44 games
+- Quickest to 50 goals: 49 games
+
+Haaland is also the only player UEFA identifies as having scored more than
+once on a Champions League debut for three different clubs.
+
+CHAMPIONS LEAGUE GOAL PROFILE
+-----------------------------
+
+As of UEFA's June 2026 statistics, Haaland's 57 Champions League goals had
+come from:
+- Left foot: 39
+- Right foot: 12
+- Headers: 6
+
+Location:
+- Home: 37
+- Away: 20
+
+He had taken 11 left-footed Champions League penalties, scoring nine and
+missing two.
+
+His goals by half were:
+- First half: 29
+- Second half: 28
+
+The most productive time period was 41 minutes to half-time, during which
+he had scored 10 goals.
+
+CHAMPIONS LEAGUE OPPONENTS
+--------------------------
+
+By June 2026, Haaland had faced 27 different teams in the Champions League
+and scored against 19 of them.
+
+Selected opponent records:
+- Real Madrid: 8 games, 4 goals
+- Sevilla: 3 games, 6 goals
+- RB Leipzig: 4 games, 6 goals
+- Genk: 2 games, 4 goals
+- Young Boys: 2 games, 4 goals
+- Napoli: 3 games, 4 goals
+- Bayern Munich: 2 games, 2 goals
+- Paris Saint-Germain: 3 games, 3 goals
+- Liverpool: 2 games, 1 goal
+- Inter: 2 games, 0 goals
+- Juventus: 1 game, 0 goals
+
+PLAYING STYLE
+-------------
+
+Haaland is a physically powerful centre-forward.
+
+Important characteristics commonly associated with his game include:
+- Pace
+- Strength
+- Height and aerial ability
+- Powerful finishing
+- Left-footed finishing
+- Ability to score with his right foot
+- Movement behind defensive lines
+- Positioning inside the penalty area
+- Ability to finish crosses and cutbacks
+- Ability to attack space at high speed
+
+Manchester City describes him as a natural goalscorer and highlights his
+combination of strength, speed, aerial ability and finishing with either foot.
+
+He generally operates as an out-and-out striker rather than a traditional
+deep-lying forward.
+
+CAREER MILESTONES
+-----------------
+
+Important milestones include:
+
+1. Senior debut for Bryne before turning 16.
+2. Move to Molde.
+3. Transfer to Red Bull Salzburg in January 2019.
+4. First-half hat-trick on Champions League debut against Genk.
+5. Move to Borussia Dortmund.
+6. Rapid Champions League scoring milestones with Dortmund.
+7. Move to Manchester City in 2022.
+8. 52 goals in his first Manchester City season.
+9. 36 Premier League goals in 2022/23.
+10. Manchester City treble in 2022/23.
+11. Five goals against RB Leipzig in the Champions League.
+12. Second Premier League Golden Boot in 2023/24.
+13. New Manchester City contract through 2034.
+14. Third Manchester City Premier League Golden Boot in 2025/26.
+15. 50 Champions League goals in only 49 appearances.
+16. More than 300 career goals by 2026.
+
+USEFUL RAG TEST QUESTIONS
+-------------------------
+
+The following questions are useful for testing retrieval:
+
+Easy:
+- What is Erling Haaland's full name?
+- When was Haaland born?
+- Where was Haaland born?
+- Which club does Haaland currently play for?
+- What position does he play?
+- Which country does he represent?
+
+Medium:
+- Which clubs did Haaland play for before Manchester City?
+- How many goals did Haaland score in his first Manchester City season?
+- How many Premier League goals did he score in 2022/23?
+- When did Haaland make his Norway debut?
+- How many Champions League goals had Haaland scored by June 2026?
+- Which club did Haaland score 86 goals for in 89 games?
+- How many goals did Haaland score in the 2025/26 season?
+
+Retrieval-specific:
+- Which competition did Haaland score a first-half hat-trick on his debut in?
+- Against which team did Haaland score five Champions League goals in one match?
+- How many Champions League goals did Haaland score for Dortmund?
+- How many Champions League goals did he score for Manchester City?
+- Which opponent has Haaland scored six Champions League goals against?
+- What was Haaland's 2025/26 Premier League goal total?
+- What are Haaland's Champions League goals by foot/head?
+
+Multi-chunk questions:
+- Compare Haaland's first Manchester City season with his 2025/26 season.
+- Trace Haaland's career from Bryne to Manchester City.
+- Summarize Haaland's Champions League records and milestones.
+- Compare his club scoring record with his Norway scoring record.
+- Explain how Haaland's career developed from Salzburg to Dortmund and then City.
+
+SOURCE NOTE
+-----------
+
+The factual information in this test document was compiled from current
+Manchester City and UEFA player/statistics pages accessed in August 2026.
+
+Primary references:
+- Manchester City player profile: Erling Haaland
+- Manchester City: Erling Haaland career review
+- Manchester City: 2025/26 forwards review
+- UEFA Champions League: Haaland records and statistics
+- UEFA European Qualifiers: Haaland player statistics
+
+For a production RAG system, verify time-sensitive statistics against current
+official sources because player totals can change after every match.
+"""
+
+path = Path("/mnt/data/haaland_notes.txt")
+path.write_text(notes, encoding="utf-8")
+print(f"Created {path}")
+STDOUT/STDERR
+Created /mnt/data/haaland_notes.txt
+Done. I made a proper Haaland knowledge-base document designed specifically for RAG testing, with enough information spread across sections/chunks to test both simple and multi-step retrieval.
+
+Download haaland_notes.txt 
+
+
+haaland_notes.txt
+Document
+
+
+Library
+/
+haaland_notes.txt
+
+
+ERLING BRAUT HAALAND — TEST KNOWLEDGE BASE
+===============================================
+
+This document is intentionally written as source material for testing a RAG application.
+It contains facts, statistics, milestones, clubs, international football, and comparisons
+that can be queried after the document is chunked and embedded.
+
+BASIC PROFILE
+-------------
+
+Full name: Erling Braut Haaland
+Date of birth: 21 July 2000
+Birthplace: Leeds, England
+Nationality: Norwegian
+Position: Centre-forward / striker
+Shirt number: 9
+Current club: Manchester City
+International team: Norway
+
+Haaland was born in Leeds while his father, Alfie Haaland, was playing in the
+Premier League. His family moved to Bryne in southern Norway when Erling was
+three years old. He joined Bryne's youth setup before the age of 10 and made
+his senior debut in Norway's second tier shortly before his 16th birthday.
+
+EARLY CLUB CAREER
+-----------------
+
+Bryne FK:
+Haaland developed through Bryne's youth system and made his senior debut as a
+teenager.
+
+Molde FK:
+Haaland moved to Molde and quickly became an important young striker. In the
+2018 season he scored 12 league goals in 25 appearances.
+
+Red Bull Salzburg:
+Salzburg signed Haaland in January 2019. His scoring exploded during the
+following season. Between August and September 2019 he scored 17 goals in
+nine games, including three hat-tricks.
+
+His UEFA Champions League debut for Salzburg came against Genk. Haaland scored
+a first-half hat-trick on his debut, becoming the first and, according to UEFA,
+the only player to score a first-half hat-trick on a Champions League debut.
+
+BORUSSIA DORTMUND
+-----------------
+
+Haaland joined Borussia Dortmund after the 2019/20 Champions League group stage.
+
+He scored twice on his Dortmund Champions League debut and reached 10
+Champions League goals after only seven appearances in the competition at that
+time.
+
+During his Dortmund career he scored 86 goals in 89 games across two and a half
+seasons, according to Manchester City's player profile. He won the German Cup
+with Dortmund and was named Bundesliga Player of the Season for 2020/21.
+
+In November 2021, Haaland scored his 50th Bundesliga goal. He became the
+youngest and fastest player to reach that milestone.
+
+MOVE TO MANCHESTER CITY
+----------------------
+
+Manchester City signed Haaland from Borussia Dortmund in 2022, with the deal
+becoming active on 1 July 2022.
+
+He made his Manchester City debut against West Ham United.
+
+In his first season at Manchester City, Haaland scored 52 goals in all
+competitions. This included 36 Premier League goals and 12 Champions League
+goals.
+
+His 36 Premier League goals in 2022/23 set the record for the most goals by a
+player in a single Premier League season.
+
+Manchester City won the Premier League, FA Cup and UEFA Champions League in
+2022/23, completing a historic treble. Haaland was a major contributor to that
+season.
+
+In the Champions League quarter-final first leg against Bayern Munich,
+Haaland scored his 45th goal of the season. This took him beyond the previous
+record for most goals by a player for an English top-flight club in a single
+season across all competitions.
+
+In March 2023, Haaland scored five goals against RB Leipzig in a Champions
+League match that Manchester City won 7-0.
+
+MANCHESTER CITY — 2023/24
+-------------------------
+
+Haaland scored 38 goals in all competitions during the 2023/24 season.
+
+He scored 27 Premier League goals and won his second consecutive Premier
+League Golden Boot.
+
+Manchester City won the UEFA Super Cup at the beginning of the season.
+Haaland scored his penalty in the shootout victory over Sevilla.
+
+MANCHESTER CITY — 2024/25
+-------------------------
+
+The 2024/25 campaign was more difficult for Manchester City, but Haaland still
+scored 34 goals in 48 appearances across all competitions.
+
+In January 2025, Manchester City announced that Haaland had signed a new
+contract keeping him at the club until the summer of 2034.
+
+MANCHESTER CITY — 2025/26
+-------------------------
+
+During the 2025/26 season, Haaland scored 38 goals in 52 appearances across
+all competitions for Manchester City.
+
+His 2025/26 breakdown included:
+- 52 appearances
+- 38 goals
+- 9 assists
+- 4,143 minutes
+- 27 Premier League goals
+
+He won the Premier League Golden Boot again in 2025/26. This was his third
+Golden Boot across his first four seasons at Manchester City.
+
+Manchester City also won the Carabao Cup and FA Cup during the 2025/26 season.
+
+CAREER TOTALS AT MANCHESTER CITY
+--------------------------------
+
+According to Manchester City's 2026 career review, Haaland had reached:
+- 198 Manchester City appearances
+- 162 Manchester City goals
+- 16,053 minutes
+- 112 Premier League goals in 132 Premier League appearances
+
+The same review listed nine trophies won with Manchester City, including:
+- UEFA Champions League
+- Premier League titles
+- FA Cups
+- Carabao Cup
+- FA Community Shield
+- FIFA Club World Cup
+- UEFA Super Cup
+
+INTERNATIONAL CAREER
+--------------------
+
+Haaland represents Norway.
+
+He made his senior Norway debut in September 2019 in a 2-0 victory over Malta.
+He scored his first senior international goal when he won his third cap against
+Austria in September 2020.
+
+In October 2020, Haaland scored his first international hat-trick in a 4-0
+victory over Romania.
+
+He won the Golden Boot in the 2020/21 UEFA Nations League.
+
+A Manchester City career review published in 2026 listed Haaland with:
+- 50 Norway appearances
+- 55 Norway goals
+
+UEFA's 2026 European Qualifiers statistics listed Haaland with 8 appearances,
+706 minutes and 16 goals in the 2026 European Qualifiers.
+
+CHAMPIONS LEAGUE RECORDS
+------------------------
+
+Haaland has been exceptionally productive in the UEFA Champions League.
+
+As of June 2026, UEFA listed:
+- 58 Champions League appearances
+- 57 Champions League goals
+
+His Champions League goals by club were:
+- Red Bull Salzburg: 6 games, 8 goals
+- Borussia Dortmund: 13 games, 15 goals
+- Manchester City: 39 games, 34 goals
+
+Haaland became the quickest player to reach 50 Champions League goals,
+achieving the milestone in 49 appearances.
+
+UEFA lists several age and appearance records for Haaland:
+- Youngest to 15 Champions League goals: 20 years, 126 days
+- Quickest to 15 goals: 12 games
+- Youngest to 20 goals: 20 years, 231 days
+- Quickest to 20 goals: 14 games
+- Youngest to 25 goals: 22 years, 47 days
+- Quickest to 25 goals: 20 games
+- Youngest to 30 goals: 22 years, 236 days
+- Quickest to 30 goals: 25 games
+- Youngest to 35 goals: 22 years, 272 days
+- Quickest to 35 goals: 27 games
+- Youngest to 40 goals: 23 years, 130 days
+- Quickest to 40 goals: 35 games
+- Youngest to 45 goals: 24 years, 128 days
+- Quickest to 45 goals: 44 games
+- Quickest to 50 goals: 49 games
+
+Haaland is also the only player UEFA identifies as having scored more than
+once on a Champions League debut for three different clubs.
+
+CHAMPIONS LEAGUE GOAL PROFILE
+-----------------------------
+
+As of UEFA's June 2026 statistics, Haaland's 57 Champions League goals had
+come from:
+- Left foot: 39
+- Right foot: 12
+- Headers: 6
+
+Location:
+- Home: 37
+- Away: 20
+
+He had taken 11 left-footed Champions League penalties, scoring nine and
+missing two.
+
+His goals by half were:
+- First half: 29
+- Second half: 28
+
+The most productive time period was 41 minutes to half-time, during which
+he had scored 10 goals.
+
+CHAMPIONS LEAGUE OPPONENTS
+--------------------------
+
+By June 2026, Haaland had faced 27 different teams in the Champions League
+and scored against 19 of them.
+
+Selected opponent records:
+- Real Madrid: 8 games, 4 goals
+- Sevilla: 3 games, 6 goals
+- RB Leipzig: 4 games, 6 goals
+- Genk: 2 games, 4 goals
+- Young Boys: 2 games, 4 goals
+- Napoli: 3 games, 4 goals
+- Bayern Munich: 2 games, 2 goals
+- Paris Saint-Germain: 3 games, 3 goals
+- Liverpool: 2 games, 1 goal
+- Inter: 2 games, 0 goals
+- Juventus: 1 game, 0 goals
+
+PLAYING STYLE
+-------------
+
+Haaland is a physically powerful centre-forward.
+
+Important characteristics commonly associated with his game include:
+- Pace
+- Strength
+- Height and aerial ability
+- Powerful finishing
+- Left-footed finishing
+- Ability to score with his right foot
+- Movement behind defensive lines
+- Positioning inside the penalty area
+- Ability to finish crosses and cutbacks
+- Ability to attack space at high speed
+
+Manchester City describes him as a natural goalscorer and highlights his
+combination of strength, speed, aerial ability and finishing with either foot.
+
+He generally operates as an out-and-out striker rather than a traditional
+deep-lying forward.
+
+CAREER MILESTONES
+-----------------
+
+Important milestones include:
+
+1. Senior debut for Bryne before turning 16.
+2. Move to Molde.
+3. Transfer to Red Bull Salzburg in January 2019.
+4. First-half hat-trick on Champions League debut against Genk.
+5. Move to Borussia Dortmund.
+6. Rapid Champions League scoring milestones with Dortmund.
+7. Move to Manchester City in 2022.
+8. 52 goals in his first Manchester City season.
+9. 36 Premier League goals in 2022/23.
+10. Manchester City treble in 2022/23.
+11. Five goals against RB Leipzig in the Champions League.
+12. Second Premier League Golden Boot in 2023/24.
+13. New Manchester City contract through 2034.
+14. Third Manchester City Premier League Golden Boot in 2025/26.
+15. 50 Champions League goals in only 49 appearances.
+16. More than 300 career goals by 2026.
+
+USEFUL RAG TEST QUESTIONS
+-------------------------
+
+The following questions are useful for testing retrieval:
+
+Easy:
+- What is Erling Haaland's full name?
+- When was Haaland born?
+- Where was Haaland born?
+- Which club does Haaland currently play for?
+- What position does he play?
+- Which country does he represent?
+
+Medium:
+- Which clubs did Haaland play for before Manchester City?
+- How many goals did Haaland score in his first Manchester City season?
+- How many Premier League goals did he score in 2022/23?
+- When did Haaland make his Norway debut?
+- How many Champions League goals had Haaland scored by June 2026?
+- Which club did Haaland score 86 goals for in 89 games?
+- How many goals did Haaland score in the 2025/26 season?
+
+Retrieval-specific:
+- Which competition did Haaland score a first-half hat-trick on his debut in?
+- Against which team did Haaland score five Champions League goals in one match?
+- How many Champions League goals did Haaland score for Dortmund?
+- How many Champions League goals did he score for Manchester City?
+- Which opponent has Haaland scored six Champions League goals against?
+- What was Haaland's 2025/26 Premier League goal total?
+- What are Haaland's Champions League goals by foot/head?
+
+Multi-chunk questions:
+- Compare Haaland's first Manchester City season with his 2025/26 season.
+- Trace Haaland's career from Bryne to Manchester City.
+- Summarize Haaland's Champions League records and milestones.
+- Compare his club scoring record with his Norway scoring record.
+- Explain how Haaland's career developed from Salzburg to Dortmund and then City.
+
+SOURCE NOTE
+-----------
+
+The factual information in this test document was compiled from current
+Manchester City and UEFA player/statistics pages accessed in August 2026.
+
+Primary references:
+- Manchester City player profile: Erling Haaland
+- Manchester City: Erling Haaland career review
+- Manchester City: 2025/26 forwards review
+- UEFA Champions League: Haaland records and statistics
+- UEFA European Qualifiers: Haaland player statistics
+
+For a production RAG system, verify time-sensitive statistics against current
+official sources because player totals can change after every match.
